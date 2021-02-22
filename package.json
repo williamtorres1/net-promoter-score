@@ -1,10 +1,10 @@
 {
-  "name": "setup-nodejs",
+  "name": "net-promoter-score",
   "version": "1.0.0",
-  "description": "This repository is my template for NodeJS projects, using TypeScript, Prettier, ESLint and EditorConfig",
+  "description": "NPS maded by Next Level Week #4",
   "main": "src/server.ts",
-  "repository": "git@github.com:williamtorres1/setup-nodejs.git",
-  "author": "William Torres <williamtorres074@gmail.com>",
+  "repository": "git@github.com:williamtorres1/net-promoter-score.git",
+  "author": "William Torres <contatowilliamtorres@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
