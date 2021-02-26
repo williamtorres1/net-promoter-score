@@ -1,5 +1,7 @@
+import 'reflect-metadata';
 import express from 'express';
-import User from '@models/User';
+
+import './database';
 
 const app = express();
 
